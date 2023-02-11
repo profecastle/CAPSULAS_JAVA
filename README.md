@@ -1,2 +1,2 @@
 # CAPSULAS_JAVA
-Ejercicios Básicos en la cosola Java
+Ejercicios Básicos en la consola Java
